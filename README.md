@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shrutika 👋
 
-<!--
-**Shrutikasri04/Shrutikasri04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer and ML enthusiast passionate about building scalable web applications and contributing to open source.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Full Stack Developer (Next.js, Node.js, PostgreSQL)
+- 🤖 Machine Learning Enthusiast
+- 🌱 Currently learning System Design & Advanced DSA
+- 🎯 Aspiring GSoC Contributor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Languages:** C++, Python, JavaScript  
+**Frontend:** React, Next.js, HTML, CSS  
+**Backend:** Node.js, Express, FastAPI  
+**Database:** PostgreSQL, MongoDB  
+**ML:** NumPy, Pandas, Scikit-learn, TensorFlow  
+**Tools:** Git, GitHub, Linux
+
+## 📌 Featured Projects
+- IngrediSense – AI-powered food ingredient analyzer  
+- Podcast Platform – Interactive podcast hosting system   
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/shrutika-sri-s-030a61327/
+- Email: kit28.24bcs160@gmail.com
+
+---
+⭐ I love building real-world systems and contributing to open source.
