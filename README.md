@@ -8,7 +8,7 @@ I'm a Full Stack Developer and ML enthusiast passionate about building scalable 
 -  Currently learning System Design & Advanced DSA
 -  Aspiring GSoC Contributor
 
-## 🛠Tech Stack
+## Tech Stack
 **Languages:** C++, Python, JavaScript  
 **Frontend:** React, Next.js, HTML, CSS  
 **Backend:** Node.js, Express, FastAPI  
