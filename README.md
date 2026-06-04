@@ -12,7 +12,7 @@ I'm a Full Stack Developer and ML enthusiast passionate about building scalable 
 **Languages:** C++, Python, JavaScript  
 **Frontend:** React, Next.js, HTML, CSS  
 **Backend:** Node.js, Express, FastAPI  
-**Database:** PostgreSQL, MongoDB  
+**Database:** PostgreSQL, MongoDB ,FAISS
 **ML:** NumPy, Pandas, Scikit-learn, TensorFlow  
 **Tools:** Git, GitHub, Linux
 
