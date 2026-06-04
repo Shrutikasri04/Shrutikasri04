@@ -17,8 +17,8 @@ I'm a Full Stack Developer and ML enthusiast passionate about building scalable 
 **Tools:** Git, GitHub, Linux
 
 ##  Featured Projects
-- IngrediSense – AI-powered food ingredient analyzer  
-- Podcast Platform – Interactive podcast hosting system   
+- BEN (Built in executive neural networks)
+- AI Based Microplastic Detection  
 
 ##  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/shrutika-sri-s-030a61327/
